@@ -29,9 +29,9 @@ This project is a web application for Delani studio that shows details about the
 
 ## Contact Information 
 
-If you have any question or contributions, please email me at [mikeycharlesm7@gmail.com]
+If you have any question or contributions, please email me at [glnkariuki@gmail.com]
 
 ## License
 * *MIT License:*
-* Copyright (c) 2019 **glen mboroki**
+* Copyright (c) 2021 **glen mboroki**
 
